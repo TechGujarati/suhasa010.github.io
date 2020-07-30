@@ -1,0 +1,28 @@
+- profile:
+  initials: SJ
+  name: Suhasa SJ
+  email: suhasasj@gmail.com
+  profession: Quality Assurance Engineer
+  image: images/profile.jpg
+  location: Bengaluru, Karnataka, India
+  relocation: false
+  company: Fiserv., Inc / Tegra118.
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    An enthusiastic, autodidact IT professional with around 4 years of experience in Quality Assurance in Investment Banking and Fintech domain.
+
+  skills:
+    - C / C++
+    - HTML / CSS
+    - JavaScript
+  tools:
+    - ReadyAPI
+    - Selenium
+    - Visual Studio
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
